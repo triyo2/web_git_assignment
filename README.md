@@ -1,20 +1,15 @@
-# Web Service Programming - Git Practice
+# My Dream Destination – Paris
 
-## Introduction
-This repository was created for the Git and GitHub practice assignment.
+Paris is one of my dream destinations.
 
-## What I Practiced
-- Git initialization
-- Git status
-- Git add
-- Git commit
-- Git clone
-- GitHub repository
-- Git push
-- Markdown
+I want to visit Paris because I love its beautiful streets, famous landmarks, cafés, and romantic atmosphere.
 
-## Purpose
-The purpose of this practice is to understand how Git manages versions locally and how GitHub can be used to share information through a web service.
+## Places I Want to Visit
+- Eiffel Tower
+- Louvre Museum
+- Seine River
+- Arc de Triomphe
+- Montmartre
 
-## Reflection
-Through this practice, I learned the difference between Git and GitHub. Git manages the version history of files, while GitHub allows repositories and information to be shared online.
+## My Dream
+I hope I can visit Paris someday and make many unforgettable memories.
